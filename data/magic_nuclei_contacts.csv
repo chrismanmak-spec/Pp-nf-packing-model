@@ -1,0 +1,9 @@
+Nucleus,A,Z,N,Magic,Contacts_Predicted,Contacts_per_Nuc,Surface_Nuc,Interior_Nuc,Shell_Closure
+He-4,4,2,2,yes,6,1.5,3,1,1p
+C-12,12,6,6,yes,36,3.0,10,2,1d/2s
+O-16,16,8,8,yes,48,3.0,10,6,1d
+Ca-40,40,20,20,yes,120,3.0,14,26,1f
+Ca-48,48,20,28,yes-neutron,144,3.0,16,32,2p1f
+Ni-58,58,28,30,yes,174,3.0,20,38,1g
+Sn-120,120,50,70,yes-neutron,360,3.0,30,90,1h
+Pb-208,208,82,126,yes,624,3.0,42,166,1i
